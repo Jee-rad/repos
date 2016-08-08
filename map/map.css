@@ -1,0 +1,10 @@
+.map-box {
+  border: black 2px solid;
+  height: 800px;
+  width: 1900px;
+}
+
+.row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
